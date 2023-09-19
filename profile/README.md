@@ -15,7 +15,7 @@ web-based applications.
 ## Getting started ##
 - 🏗️ create an account at [rackup.dev](https://rackup.dev) (**important**: the email address you use to register must match your Github email address)
 - 👀 verify the email address by following the instructions in the mail you'll receive
-- 🍴fork our [sample app repo](rackup_sample_app), or create your own repo from scratch (see our [documentation](https://docs.rackup.dev))
+- 🍴fork our [sample app repo](https://github.com/rackupdev/starter_app), or create your own repo from scratch (see our [documentation](https://docs.rackup.dev))
 - 🧰 install our [Rackup Github App](https://...) (handles automated deployments to our infrastructure)
 - :shipit: push to your `main` branch
 - 🏁 go back to [rackup.dev](https://rackup.dev) to see access and control your new app
